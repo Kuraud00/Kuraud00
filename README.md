@@ -2,7 +2,6 @@
 - 👀 I’m interested in all fun things
 - 🌱 I’m currently learning CS61C & NJU Operating System
 - 📫 How to reach me : Bilibili or QQ
-- 😄 Pronouns: Chinese & English
 - ⚡ Fun fact: Secret =v=
 
 <!---

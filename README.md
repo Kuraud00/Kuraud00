@@ -6,7 +6,7 @@
 - 👀 I’m interested in all fun things
 - 🌱 I’m currently learning CS61C & NJU Operating System
 - 📫 How to reach me : Bilibili or QQ
-- ⚡ Fun fact: Secret =v=
+- 🎮️ Favourite games : Minecraft 
 
 <!---
 Kuraud00/Kuraud00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

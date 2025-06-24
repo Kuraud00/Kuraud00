@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Kuraud00
 - 👀 I’m interested in all fun things
-- 🌱 I’m currently learning CS61C & NJU Operating System
+- 🌱 I’m currently learning CS61C
 - 📫 How to reach me : Bilibili or QQ
 - 🎮️ Favourite games : Minecraft 
 
